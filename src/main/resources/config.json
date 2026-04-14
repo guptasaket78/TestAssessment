@@ -1,0 +1,11 @@
+{
+  "baseUrl" : "http://localhost:3000/",
+  "testData" : {
+    "name": "Saket",
+    "hp": "10",
+    "attack": "15",
+    "defence": "12",
+    "speed": "70"
+  }
+
+}
